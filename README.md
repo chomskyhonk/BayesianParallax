@@ -1,6 +1,6 @@
 # Bayesian Distance Estimation with Gaia DR2
 
-This repository contains the code and accompanying report for a study on
+This repository contains the python code in jupyternotebooks format and accompanying report for a study on
 Bayesian stellar distance estimation using Gaia DR2 parallax measurements.
 The work explores progressively more informative Bayesian posteriors,
 starting from parallax-only inference and extending to a full model
