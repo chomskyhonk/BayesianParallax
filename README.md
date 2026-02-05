@@ -52,6 +52,11 @@ Open and run `parallaxestimates.ipynb` sequentially to reproduce the figures and
 statistics presented in the report. The notebook is self-contained and
 includes explanatory comments throughout.
 
+## Implementation
+
+All analysis code is written in Python and provided in a Jupyter notebook
+(`parallaxestimates.ipynb`)
+
 ## Notes
 
 - Gaia DR2 parallaxes include a global zero-point offset, which is explicitly
