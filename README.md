@@ -64,9 +64,11 @@ All analysis code is written in Python and provided in a Jupyter notebook
 - The colour–magnitude relation is derived empirically from the dataset and
   should not be interpreted as a universal stellar population model.
 
-## Author
+## Contact
 
-Billy Harrison
+For questions or collaboration inquiries:
+- GitHub Issues: [Project Issues](https://github.com/chomskyhonk/BayesianStellarParameters/issues)
+- (LinkedIn: https://www.linkedin.com/in/billy-harrison-74ab66251)
 
 
 
